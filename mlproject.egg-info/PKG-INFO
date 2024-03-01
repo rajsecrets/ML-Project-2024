@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: mlproject
+Version: 0.0.1
+Summary: Easily download, build, install, upgrade, and uninstall Python packages
+Author: raj
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
